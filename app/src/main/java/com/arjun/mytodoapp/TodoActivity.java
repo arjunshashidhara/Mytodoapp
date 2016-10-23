@@ -36,7 +36,7 @@ public class TodoActivity extends AppCompatActivity {
             lvItems.setAdapter(itemsAdapter);
             items.add("Go to Gym");
             items.add("Buy grocery");
-            items.add("Learn Android");
+            items.add("Learn Android Development");
 
         }
 
