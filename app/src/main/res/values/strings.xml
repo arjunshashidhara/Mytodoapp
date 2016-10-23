@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Mytodo app</string>
+    <string name="text_label">to do item</string>
+    <string name="submit_button">Add</string>
+
+</resources>
